@@ -1,0 +1,18 @@
+{
+	"Seti_SB_bright": true,
+	"Seti_orange_button": true,
+	"Seti_show_group_arrows": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mouse_wheel_tabswitch": true,
+	"rulers":
+	[
+		99
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme"
+}

@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"GitGutter",
+		"HexViewer",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TypeScript"
+	],
+	"repositories":
+	[
+		"https://github.com/yasuyuky/SublimeMozcInput"
+	]
+}

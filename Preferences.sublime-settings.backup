@@ -1,0 +1,47 @@
+{
+	"Seti_SB_bright": true,
+	"Seti_orange_button": true,
+	"Seti_show_group_arrows": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mouse_wheel_tabswitch": true,
+	"rulers":
+	[
+		99
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme",
+}
+
+{
+	"Seti_SB_bright": true,
+	"Seti_orange_button": true,
+	"Seti_show_group_arrows": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"material_theme_accent_lime": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_tab": true,
+	"mouse_wheel_tabswitch": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		99
+	],
+	"theme": "Material-Theme-Darker.sublime-theme"
+}

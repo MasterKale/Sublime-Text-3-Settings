@@ -1,0 +1,6 @@
+// I don't know why but the presence of this custom theme file is enough for Sublime Text to pick
+// up the icons in the ./icons/ folder and display them on the left side. That's ultimately what
+// I wanted so if it ain't broke don't try to fix it...? vOv
+{
+
+}
