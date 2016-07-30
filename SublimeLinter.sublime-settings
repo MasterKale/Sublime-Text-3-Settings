@@ -12,7 +12,7 @@
                 "args": [],
                 "excludes": [],
                 "ignore": "",
-                "max-line-length": null,
+                "max-line-length": 99,
                 "select": ""
             }
         },
