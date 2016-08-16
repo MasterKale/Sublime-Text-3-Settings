@@ -11,5 +11,7 @@
 	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
 	
 	{ "keys": ["ctrl+alt+t"], "command": "open_terminal_project_folder" },
+
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 	
 ]

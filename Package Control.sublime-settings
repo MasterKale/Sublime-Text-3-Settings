@@ -5,18 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"Emmet",
 		"GitGutter",
-		"HexViewer",
 		"Markdown Preview",
 		"Package Control",
 		"SFTP",
-		"SublimeLinter",
-		"SublimeLinter-pep8",
 		"Terminal",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"TypeScript"
+		"Tomorrow Color Schemes"
 	],
 	"repositories":
 	[

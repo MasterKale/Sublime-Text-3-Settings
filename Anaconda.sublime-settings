@@ -1,0 +1,7 @@
+{
+	"python_interpreter": "python",
+	"anaconda_linter_persistent": true,
+	"anaconda_linter_mark_style": "none",
+	"anaconda_gutter_theme": "hard",
+	"pep8_max_line_length": 99,
+}
