@@ -8,12 +8,15 @@
 		"Anaconda",
 		"Emmet",
 		"GitGutter",
+		"JSON Reindent",
 		"Markdown Preview",
 		"Package Control",
+		"Sass",
 		"SFTP",
 		"Terminal",
 		"Theme - Soda",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"TypeScript"
 	],
 	"repositories":
 	[
