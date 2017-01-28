@@ -6,13 +6,18 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Color Highlighter",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
 		"JSON Reindent",
 		"Markdown Preview",
 		"Package Control",
 		"Sass",
 		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Terminal",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
